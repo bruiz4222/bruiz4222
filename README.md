@@ -1,7 +1,8 @@
 Hi, my name is Brian.
-I'm just a college student who enjoys playing games, exercising, and eating noodles.
-Who also wants to learn more about web development,
-even though I don't know a whole lot I still want to learn it.
+I wanted to program,
+so I became a programmer.
+Now I want to use the knowledge I have gathered,
+in order to make cool stuff.
 - If you want to talk: discord(Bwry#9201) or email(bsruiz2001@gmail.com)
 
 <!---
